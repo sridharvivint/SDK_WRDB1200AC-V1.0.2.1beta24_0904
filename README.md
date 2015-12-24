@@ -1,2 +1,3 @@
 # SDK_WRDB1200AC-V1.0.2.1beta24_0904
 CBT SDK
+For the CBT Device.
